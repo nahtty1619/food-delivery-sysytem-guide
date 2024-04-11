@@ -12,3 +12,7 @@ https://www.figma.com/file/QSCOPpRoLfSvXtLTtdte8N/mobile-app-food-delivery?type=
 
 create componenet nav bar
 https://www.figma.com/file/QSCOPpRoLfSvXtLTtdte8N/mobile-app-food-delivery?type=design&node-id=3%3A34&mode=design&t=t22wblU1Ob2Ly1BY-1
+ 
+
+ build tab bar
+ https://www.figma.com/file/QSCOPpRoLfSvXtLTtdte8N/mobile-app-food-delivery?type=design&node-id=11%3A1395&mode=design&t=t22wblU1Ob2Ly1BY-1
