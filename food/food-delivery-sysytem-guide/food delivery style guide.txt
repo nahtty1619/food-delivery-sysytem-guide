@@ -26,3 +26,5 @@ https://www.figma.com/file/QSCOPpRoLfSvXtLTtdte8N/mobile-app-food-delivery?type=
 
  build login screen
  https://www.figma.com/file/QSCOPpRoLfSvXtLTtdte8N/mobile-app-food-delivery?type=design&node-id=3%3A34&mode=design&t=9U05C9CwP3OHq88A-1
+ build signup screen
+ https://www.figma.com/file/QSCOPpRoLfSvXtLTtdte8N/mobile-app-food-delivery?type=design&node-id=3%3A34&mode=design&t=9U05C9CwP3OHq88A-1
