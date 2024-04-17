@@ -32,3 +32,5 @@ https://www.figma.com/file/QSCOPpRoLfSvXtLTtdte8N/mobile-app-food-delivery?type=
   https://www.figma.com/file/QSCOPpRoLfSvXtLTtdte8N/mobile-app-food-delivery?type=design&node-id=3%3A34&mode=design&t=BzuuIQmCkKsMa8BG-1
    build common frame design
    https://www.figma.com/file/QSCOPpRoLfSvXtLTtdte8N/mobile-app-food-delivery?type=design&node-id=3%3A34&mode=design&t=BzuuIQmCkKsMa8BG-1
+    build all project food delivery and prototype
+    https://www.figma.com/file/QSCOPpRoLfSvXtLTtdte8N/mobile-app-food-delivery?type=design&node-id=38%3A1533&mode=design&t=BzuuIQmCkKsMa8BG-1
